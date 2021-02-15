@@ -1,3 +1,9 @@
+#spinner{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+
 .clock{
     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LfX3dwi85xz-_mRUs4Bt9lQ4IRgadpbJqw&usqp=CAU');
     width: 225px;
