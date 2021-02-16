@@ -4,3 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     loadPost();
     loadPosts();
 });
+
+$(window).on("load",function(){
+    $(".loader-wrapper").fadeOut("slow");
+})
